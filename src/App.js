@@ -1,10 +1,12 @@
-import logo from './logo.svg';
+import React from 'react'
+import TempApp from './components/Tempapp'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-     <h1>hello</h1>
+
+     <TempApp />
     </div>
   );
 }
