@@ -37,7 +37,7 @@ body {
           box-shadow: 0 0 70px -10px rgba(0, 0, 0, 0.2);
   background-color: #222831;
   color: #ffffff;
-  height: 400px;
+  height: 420px;
 }
 
 .weather-side {
@@ -221,7 +221,6 @@ body {
   font-weight: 700;
   -webkit-box-shadow: 0 0 30px -5px rgba(0, 0, 0, 0.25);
           box-shadow: 0 0 30px -5px rgba(0, 0, 0, 0.25);
-  cursor: pointer;
   -webkit-transition: -webkit-transform 200ms ease;
   transition: -webkit-transform 200ms ease;
   -o-transition: transform 200ms ease;
